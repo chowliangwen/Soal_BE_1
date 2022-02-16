@@ -2,7 +2,7 @@
 
 Repo ini berisi test assignment untuk calon Back-End Engineer
 
-## Struktur Repo
+## Struktur Repo dan Dokumen Tambahan
 
 | path                                                                                                                     | content             | description                                 |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------------------- |
@@ -11,7 +11,7 @@ Repo ini berisi test assignment untuk calon Back-End Engineer
 
 ## Tentang Assignment
 
-1. Buat aplikasi Back-End sesuai kriteria [Docs Ketentuan](https://) dengan Framework sesuai preferensi masing-masing.
+1. Buat aplikasi Back-End sesuai kriteria [API Requirement Docs](https://docs.google.com/document/d/1HD9JKbH0g4XKj3wChmH9O6o-qv3bqeaLGLLjyB8glm8/edit?usp=sharing) dengan Framework sesuai preferensi masing-masing.
 2. Test Jalan API yang sudah di buat di local dengan menggunakan Web yang ada di repo ini. ( cara installasi dan running ada di bawah )
 3. Batas waktu pengerjaan 3 hari, setelah itu kirim Email ke: anon@email.com berisi :
 
@@ -44,7 +44,7 @@ Note : Web memerlukan API sesuai ketentuan untuk bisa berjalan.
 
 Step instalasi :
 
-1. Pertama perlu set-up Node.JS di local machine [Link Download Node.JS](https://nodejs.org/en/download/https://) jika belum ada.
+1. Pertama perlu set-up Node.JS di local machine [Link Download Node.JS](https://nodejs.org/en/download/) jika belum ada.
 2. Lalu install [lite-server](https://github.com/johnpapa/lite-server) sebagai web server dengan command :
 
 ```
