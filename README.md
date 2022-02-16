@@ -44,7 +44,7 @@ Note : Web memerlukan API sesuai ketentuan untuk bisa berjalan.
 
 Step instalasi :
 
-1. Pertama perlu set-up Node.JS di local machine [Link Download Node.JS](https://nodejs.org/en/download/) jika belum ada.
+1. Pertama kalian perlu set-up Node.JS di local machine. Silahkan buka [Link Download Node.JS](https://nodejs.org/en/download/) dan Install ke Local machine jika belum ada.
 2. Lalu install [lite-server](https://github.com/johnpapa/lite-server) sebagai web server dengan command :
 
 ```
