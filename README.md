@@ -11,7 +11,7 @@ Repo ini berisi test assignment untuk calon Back-End Engineer
 
 ## Tentang Assignment
 
-1. Buat aplikasi Back-End sesuai kriteria [API Requirement Docs](https://docs.google.com/document/d/1HD9JKbH0g4XKj3wChmH9O6o-qv3bqeaLGLLjyB8glm8/edit?usp=sharing) dengan Framework sesuai preferensi masing-masing.
+1. Buat aplikasi Back-End sesuai kriteria [API Requirement Docs](https://docs.google.com/document/d/1HD9JKbH0g4XKj3wChmH9O6o-qv3bqeaLGLLjyB8glm8/edit?usp=sharing) dengan Bahasa Pemograman NodeJS atau GoLang dengan Framework sesuai preferensi masing-masing.
 2. Test Jalan API yang sudah di buat di local dengan menggunakan Web yang ada di repo ini. ( cara installasi dan running ada di bawah )
 3. Batas waktu pengerjaan 3 hari, setelah itu kirim Email ke: steven@econolab.co.id berisi :
 
